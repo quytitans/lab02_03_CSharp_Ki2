@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab02\Lab_02_SINValidator\bin\Debug\Lab_02_SINValidator.exe
+D:\01. Project C Sharp\Lab001\Lab02\Lab_02_SINValidator\bin\Debug\Lab_02_SINValidator.pdb
+D:\01. Project C Sharp\Lab001\Lab02\Lab_02_SINValidator\obj\Debug\Lab_02_SINValidator.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab02\Lab_02_SINValidator\obj\Debug\Lab_02_SINValidator.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab02\Lab_02_SINValidator\obj\Debug\Lab_02_SINValidator.exe
+D:\01. Project C Sharp\Lab001\Lab02\Lab_02_SINValidator\obj\Debug\Lab_02_SINValidator.pdb
